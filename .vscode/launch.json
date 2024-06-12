@@ -11,12 +11,5 @@
             "program": "cat.py",
             "console": "integratedTerminal"
         },
-        {
-            "name": "run main",
-            "type": "debugpy",
-            "request": "launch",
-            "program": "main.py",
-            "console": "integratedTerminal"
-        }
     ]
 }
